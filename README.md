@@ -12,12 +12,23 @@
 ### Features & Usage Demo
 Discover the smart categorization, renaming, and multi-select capabilities.
 
-<video src="assets/widg_2.mp4" controls="controls" width="100%" muted="true"></video>
 
 ### Installation & Auto-Injection
 Watch how the widget installs itself and magically appears in the UI without a single line of code!
 
-<video src="assets/widg_1.mp4" controls="controls" width="100%" muted="true"></video>
+
+
+https://github.com/user-attachments/assets/02eb9729-8117-40d8-a6f6-0cd74798bf2a
+---
+
+
+
+
+https://github.com/user-attachments/assets/2e0394e0-31be-4691-8aff-95df1ef4fadb
+
+
+
+
 
 *(Note: Videos require a modern browser or viewing directly on GitHub. If they don't load, you can find them in the `assets/` folder.)*
 
@@ -62,4 +73,3 @@ Once it's done, just press `SUPER+ALT+R` (or reload your shell) and enjoy your n
 This widget relies heavily on Noctalia/ii aliases (like `Appearance.colors` and `MaterialSymbol`). If you are running a generic Quickshell setup without Noctalia, the installer will place the files in `~/.config/quickshell/library-widget` for you to manually adapt to your own UI styling.
 
 ---
-<p align="center">Made with ❤️ for the Rice community.</p>
