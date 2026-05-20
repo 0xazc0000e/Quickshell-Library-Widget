@@ -50,8 +50,8 @@ https://github.com/user-attachments/assets/2e0394e0-31be-4691-8aff-95df1ef4fadb
 It takes less than 5 seconds! Simply run the fully automated installer:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/0xazc0000e/Quickshell-Library-Widget.git
+cd Quickshell-Library-Widget
 chmod +x install.sh
 ./install.sh
 ```
