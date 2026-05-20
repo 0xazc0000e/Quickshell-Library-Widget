@@ -7,6 +7,22 @@
 
 ---
 
+## 🎬 Showcase
+
+### Features & Usage Demo
+Discover the smart categorization, renaming, and multi-select capabilities.
+
+<video src="assets/widg_2.mp4" controls="controls" width="100%" muted="true"></video>
+
+### Installation & Auto-Injection
+Watch how the widget installs itself and magically appears in the UI without a single line of code!
+
+<video src="assets/widg_1.mp4" controls="controls" width="100%" muted="true"></video>
+
+*(Note: Videos require a modern browser or viewing directly on GitHub. If they don't load, you can find them in the `assets/` folder.)*
+
+---
+
 ## ✨ Features
 
 - **🧠 Auto-Categorization:** Uses an intelligent Python scanner to automatically sort your books into categories based on keywords.
@@ -14,22 +30,6 @@
 - **🗂️ Dynamic Multi-Selection:** Select multiple books at once, move them between categories, or delete them effortlessly.
 - **📂 Easy Re-categorization:** Drag & drop (or move via context menu) books between folders or create new custom categories.
 - **⚙️ Fully Automated Installer:** The installation script handles dependencies, prompts for your preferred file extension (PDF, EPUB, etc.), and **100% automatically injects** the widget into your Noctalia UI without requiring any manual QML coding!
-
----
-
-## 🎬 Showcase
-
-### Installation & Auto-Injection
-Watch how the widget installs itself and magically appears in the UI without a single line of code!
-
-<video src="assets/widg_1.mp4" controls="controls" width="100%" muted="true"></video>
-
-### Features & Usage Demo
-Discover the smart categorization, renaming, and multi-select capabilities.
-
-<video src="assets/widg_2.mp4" controls="controls" width="100%" muted="true"></video>
-
-*(Note: Videos require a modern browser or viewing directly on GitHub. If they don't load, you can find them in the `assets/` folder.)*
 
 ---
 
