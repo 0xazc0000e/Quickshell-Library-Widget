@@ -19,6 +19,7 @@ Watch how the widget installs itself and magically appears in the UI without a s
 
 
 https://github.com/user-attachments/assets/02eb9729-8117-40d8-a6f6-0cd74798bf2a
+
 ---
 
 
