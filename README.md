@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>A highly automated, dynamic, and visually stunning library manager for Quickshell.</b><br>
-  Built with love for <a href="https://github.com/outfoxxed/quickshell">Quickshell</a> and <a href="https://github.com/The-Noob-Dude/Noctalia"></a>.
+  Built with love for <a href="https://github.com/outfoxxed/quickshell">Quickshell</a> 
 </p>
 
 ---
